@@ -1,3 +1,5 @@
+#ifndef Gesto_h
+#define Gesto_h	 
 
 class Gesto{
   private:
@@ -20,3 +22,4 @@ class Gesto{
     
 };
 
+#endfi

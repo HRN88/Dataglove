@@ -1,6 +1,6 @@
 
-#include"Arduino.h"
-#include"Gestos.h"
+#include "Arduino.h"
+#include "Gestos.h"
 
 void Gesto::setParams(int pulgar, int indice, int medio, int umbral, int codigo[]){
   pulgar_= pulgar;
