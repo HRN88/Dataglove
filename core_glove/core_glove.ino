@@ -1,7 +1,7 @@
+#include <Gestos.h>
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-#include "Gestos.h"
 
 //*******************************CONSTANTES**************************
 //Se declaran los pines para el modulo de comunicación
